@@ -9,8 +9,3 @@ their previous authorization.
 ```
 
 Ransomware  was decompiled using: Retdec
-
-- “[Retdec](https://retdec.com)”, 
-Copyright (c) Retargetable Decompiler <info@retdec.com>;
-
-
