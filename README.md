@@ -1,4 +1,5 @@
 # Hello-Kitty
+![immagine](https://user-images.githubusercontent.com/56889513/117014124-c4dedb00-acf0-11eb-90ed-2fdd047d5178.png)
 
 ```
 Note 1: This project is purely academic,
